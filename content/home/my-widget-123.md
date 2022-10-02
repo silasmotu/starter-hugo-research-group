@@ -1,9 +1,9 @@
 ---
-widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
+widget: 
 widget_id: my-widget-123
 headless: true
 weight: 10
-title: Nuclear Theory Group
+title: 
 active: true
 design:
   columns: "2"
